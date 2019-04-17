@@ -243,12 +243,7 @@
               
 				<h6><p>
           {{$about->details}}
-              <!--Professional Realty Management (P) Limited (PRM) is one of the premier Facilities Management and Business Support Services Company with a strong workforce across the country. 
-PRM  offers a comprehensive array of services across industries like
-					- Airports , Highways , IT/ITES and Business parks , Manufacturing , BFSI , Hospitality , Warehousing and Retail , FMCG , Residential , Hospitality , Healthcare etc</p></h6>
-				
-				<h6><p>
-					Incorporated in 2006 and headquartered at Deoghar (Jharkhand) – PRM is Jharkhand’s premier and largest Pan India Facilities Management company. - offering the best in class services across all industries. Supported by the Skilled Manpower & latest technology. PRM utilizes the latest state of art technology to deliver premium services across all industry verticals.-->
+             
 				</p></h6>
             </div>
           </div>
